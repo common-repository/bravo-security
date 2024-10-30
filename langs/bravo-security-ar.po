@@ -1,0 +1,3650 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAVO WP Ultimate Security\n"
+"POT-Creation-Date: 2017-10-18 11:40+0200\n"
+"PO-Revision-Date: 2017-10-18 11:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/html/dashboard/default/index.php:54
+msgid "Bravo WP Ultimate Security"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:65
+msgid "Change User Login Name"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:112
+msgid "Message Sent. Thank you."
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:118 includes/tebravo.init.php:450
+#: includes/tebravo.init.php:1151 includes/tebravo.selfprotect.php:186
+msgid "Dashboard"
+msgstr "الرئيسية"
+
+#: assets/html/dashboard/default/index.php:123
+msgid "Go Pro"
+msgstr "النسخة الكاملة"
+
+#: assets/html/dashboard/default/index.php:133 includes/tebravo.base.php:50
+#: includes/tebravo.dashboard.php:423
+msgid "Contact Support"
+msgstr "اتصل بالدعم"
+
+#: assets/html/dashboard/default/index.php:134
+#: includes/tebravo.dashboard.php:419
+msgid "Report a Bug"
+msgstr "ابلغ عن مشكلة"
+
+#: assets/html/dashboard/default/index.php:137
+#: includes/tebravo.installer.php:217
+msgid "Welcome"
+msgstr "مرحبا"
+
+#: assets/html/dashboard/default/index.php:138
+msgid "Security Alerts"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:139
+msgid "Notifications"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:140
+msgid "Admins Online"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:144
+msgid "PHP Info"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:145
+msgid "Last 5 Blocked IPs by Firewall"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:146
+msgid "Last 5 Blocked for Failed Login Attempts"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:147
+msgid "Last 5 Antivirus Processes"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:148
+msgid "Users Wait Approval"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:157
+msgid "Defense Stats"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:186
+#: assets/html/dashboard/default/index.php:275 hooks/tebravo.backups.php:59
+#: hooks/tebravo.backups.php:72 hooks/tebravo.bforce.php:1021
+#: hooks/tebravo.housekeeping.php:69 hooks/tebravo.housekeeping.php:318
+#: hooks/tebravo.housekeeping.php:326 hooks/tebravo.housekeeping.php:347
+#: hooks/tebravo.traffic.php:360 hooks/tebravo.traffic.php:374
+#: hooks/tebravo.traffic.php:594 hooks/tebravo.traffic.php:810
+#: hooks/tebravo.traffic.php:880 hooks/tebravo.wpadmin.php:507
+#: hooks/tebravo.wpadmin.php:765 hooks/tebravo.wpadmin.php:913
+#: hooks/tebravo.wpadmin.php:989 hooks/tebravo.wpadmin.php:1142
+#: includes/tebravo.init.php:843
+msgid "Loading"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:213
+#: assets/html/dashboard/default/index.php:496
+#: assets/html/dashboard/default/index.php:631
+msgid "Everything is just fine"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:227
+#: assets/html/dashboard/default/index.php:512
+#: assets/html/dashboard/default/index.php:580
+#: assets/html/dashboard/default/index.php:647 hooks/tebravo.antivirus.php:467
+#: hooks/tebravo.antivirus.php:548 hooks/tebravo.antivirus.php:2529
+msgid "ago"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:247 hooks/tebravo.antivirus.php:411
+#: hooks/tebravo.antivirus.php:488
+msgid "Owner"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:247 hooks/tebravo.antivirus.php:413
+#: hooks/tebravo.antivirus.php:490
+msgid "Affected"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:263
+#: assets/html/dashboard/default/index.php:443
+#: assets/html/dashboard/default/index.php:464
+#: hooks/tebravo.errorpages.php:259 hooks/tebravo.errorpages.php:273
+#: hooks/tebravo.errorpages.php:287 hooks/tebravo.mail.php:335
+#: hooks/tebravo.mail.php:353 hooks/tebravo.mail.php:359
+#: hooks/tebravo.recaptcha.php:347 hooks/tebravo.recaptcha.php:361
+#: hooks/tebravo.recaptcha.php:375 hooks/tebravo.recaptcha.php:389
+msgid "Enable"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:264 hooks/tebravo.traffic.php:1095
+#: includes/tebravo.dashboard.php:316
+msgid "Option Disabled"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:272
+#: hooks/tebravo.errorpages.php:261 hooks/tebravo.errorpages.php:275
+#: hooks/tebravo.errorpages.php:289 hooks/tebravo.mail.php:337
+#: hooks/tebravo.mail.php:355 hooks/tebravo.mail.php:361
+#: hooks/tebravo.recaptcha.php:349 hooks/tebravo.recaptcha.php:363
+#: hooks/tebravo.recaptcha.php:377 hooks/tebravo.recaptcha.php:391
+msgid "Disable"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:273 hooks/tebravo.traffic.php:808
+msgid "Refresh"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:304
+#: assets/html/dashboard/default/index.php:310
+msgid "Backups Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:305
+#: assets/html/dashboard/default/index.php:319
+#: assets/html/dashboard/default/index.php:333
+#: assets/html/dashboard/default/index.php:347
+#: assets/html/dashboard/default/index.php:361
+msgid "Large"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:311
+#: assets/html/dashboard/default/index.php:325
+#: assets/html/dashboard/default/index.php:339
+#: assets/html/dashboard/default/index.php:353
+#: assets/html/dashboard/default/index.php:367
+msgid "Too Large"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:318
+#: assets/html/dashboard/default/index.php:324
+msgid "/tmp Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:332
+#: assets/html/dashboard/default/index.php:338
+msgid "Log Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:346
+#: assets/html/dashboard/default/index.php:352
+msgid "PHP Log Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:360
+#: assets/html/dashboard/default/index.php:366
+msgid "Email Log Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:375 includes/tebravo.init.php:1000
+msgid "Security Hash"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:376
+msgid "Please add security hash"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:383
+#: assets/html/dashboard/default/index.php:412
+#: assets/html/dashboard/default/index.php:482
+msgid " Everything is just fine"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:402
+msgid "Dangerous Login Names"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:408
+#: assets/html/dashboard/default/index.php:422
+#: assets/html/dashboard/default/index.php:433
+#: assets/html/dashboard/default/index.php:474
+#: includes/tebravo.dashboard.php:397
+msgid "Change"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:416
+msgid "Security Issues"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:423
+#: assets/html/dashboard/default/index.php:434
+#: assets/html/dashboard/default/index.php:444
+#: assets/html/dashboard/default/index.php:455
+#: assets/html/dashboard/default/index.php:465
+msgid "Not Safe"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:434
+#: includes/tebravo.installer.php:238
+msgid "Permissions"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:444
+#: assets/html/dashboard/default/index.php:698 hooks/tebravo.bforce.php:837
+#: includes/tebravo.installer.php:413
+msgid "Brute Force Protection"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:444
+#: assets/html/dashboard/default/index.php:465 hooks/tebravo.cronjobs.php:207
+#: hooks/tebravo.cronjobs.php:208 hooks/tebravo.cronjobs.php:258
+#: hooks/tebravo.firewall.php:1765 hooks/tebravo.wconfig.php:227
+#: hooks/tebravo.wconfig.php:271 hooks/tebravo.wconfig.php:288
+#: hooks/tebravo.wconfig.php:305 hooks/tebravo.wpadmin.php:558
+#: hooks/tebravo.wpadmin.php:571 hooks/tebravo.wpadmin.php:584
+#: hooks/tebravo.wpadmin.php:597 hooks/tebravo.wpadmin.php:610
+#: includes/tebravo.dashboard.php:68 includes/tebravo.installer.php:290
+#: includes/tebravo.installer.php:297 includes/tebravo.installer.php:304
+#: includes/tebravo.installer.php:311 includes/tebravo.installer.php:318
+#: includes/tebravo.installer.php:325 includes/tebravo.installer.php:332
+msgid "Disabled"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:454
+msgid "Hide"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:455
+msgid "Still Appear"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:475
+msgid "Blog Description"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:545 hooks/tebravo.bforce.php:229
+msgid "Approve"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:549 hooks/tebravo.antivirus.php:478
+#: hooks/tebravo.antivirus.php:559
+msgid "Nothing!"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:583
+msgid "Last Login Details"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:598
+msgid "Web Server"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:601
+#: includes/tebravo.installer.php:286
+msgid "PHP Version"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:604
+msgid "Memory Usage"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:607
+msgid "Memory Usage Limit"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:610
+msgid "Max Upload Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:613
+msgid "Max Post Size"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:616
+msgid "Max Execution Time"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:617
+msgid "Seconds"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:619
+#: includes/tebravo.installer.php:340
+msgid "On"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:619
+#: includes/tebravo.installer.php:339
+msgid "Off"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:620
+msgid "Allow URL fopen "
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:679
+msgid "USED"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:691
+msgid "Your Defense Meter"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:694
+msgid "Firewall"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:702 hooks/tebravo.bforce.php:883
+#: includes/tebravo.installer.php:417
+msgid "Enforce Strong Passwords"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:706
+msgid "DB Prefix"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:710
+msgid "Disable File Editing"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:714
+msgid "CONFIG read-only Permissions"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:718
+msgid "Disable WP_DEBUG"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:722
+msgid "Hide wp-login"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:726 hooks/tebravo.wpadmin.php:588
+msgid "Hide wp-admin"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:730
+msgid "Disable Proxy for wp-admin"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:734
+msgid "Log-out Idle Users"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:738
+msgid "Enable Two Steps Login"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:742
+msgid "Enable Error Pages"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:746
+msgid "Hide WP Version"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:750
+msgid "Prevent Image Hotlinking"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:754
+msgid "Prevent iFrame Traffic"
+msgstr ""
+
+#: assets/html/dashboard/default/index.php:789
+msgid "More"
+msgstr ""
+
+#: bravo-config.php:35
+msgid "You have no permissions to access this page!"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:39 hooks/2fa_actions/fb.php:37
+#: hooks/2fa_actions/pin.php:44 hooks/2fa_actions/q.php:52
+msgid "Two Steps Login Settings"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:43
+msgid "Two Factor Authentication"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:45 hooks/2fa_actions/fb.php:43
+#: hooks/2fa_actions/pin.php:50 hooks/2fa_actions/q.php:58
+#: hooks/tebravo.antivirus.php:3042 hooks/tebravo.firewall.php:1764
+#: hooks/tebravo.wconfig.php:223 hooks/tebravo.wconfig.php:275
+#: hooks/tebravo.wconfig.php:292 hooks/tebravo.wconfig.php:309
+#: hooks/tebravo.wpadmin.php:556 hooks/tebravo.wpadmin.php:569
+#: hooks/tebravo.wpadmin.php:582 hooks/tebravo.wpadmin.php:595
+#: hooks/tebravo.wpadmin.php:608 includes/tebravo.installer.php:291
+#: includes/tebravo.installer.php:298 includes/tebravo.installer.php:305
+#: includes/tebravo.installer.php:312 includes/tebravo.installer.php:319
+#: includes/tebravo.installer.php:326 includes/tebravo.installer.php:333
+msgid "Enabled"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:47
+msgid "Verification Method"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:50
+msgid "Download Mobile App"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:50
+msgid "Download Mobile App:"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:51
+msgid "Andriod"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:56
+msgid "IOS"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:74
+msgid "QR"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:74
+msgid "Scan QR to verify app:"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:76
+msgid "or use this secret key to verify app"
+msgstr ""
+
+#: hooks/2fa_actions/2fa.php:77 hooks/tebravo.recaptcha.php:405
+msgid "Secret Key"
+msgstr ""
+
+#: hooks/2fa_actions/fb.php:41
+msgid "Facebook Login Verification"
+msgstr ""
+
+#: hooks/2fa_actions/fb.php:45 includes/tebravo.html.php:392
+msgid "Login"
+msgstr ""
+
+#: hooks/2fa_actions/pin.php:48
+msgid "Pin Code Login Verification"
+msgstr ""
+
+#: hooks/2fa_actions/pin.php:52
+msgid "Choose your PIN"
+msgstr ""
+
+#: hooks/2fa_actions/q.php:56
+msgid "Security Questions Login Verification"
+msgstr ""
+
+#: hooks/2fa_actions/q.php:60
+msgid "Choose your most difficult question"
+msgstr ""
+
+#: hooks/2fa_actions/q.php:66
+msgid "Write a good answer"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:274 includes/tebravo.base.php:38
+msgid "Error"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:307 hooks/tebravo.wconfig.php:822
+#: hooks/tebravo.wconfig.php:1031
+msgid "Continue"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:339
+msgid "Choose your securtiy question!"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:342
+msgid "Write your exact answer:"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:355
+msgid "Insert you PIN code to login"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:391
+msgid "Verify your login with your Facebook account"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:483
+msgid "Authentication Code"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:488
+msgid "Example: Mobile App"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:492
+msgid "Check your email .. inbox or junk"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:528 includes/tebravo.core.php:924
+msgid "Login Security: Authentication Code"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:601
+msgid "You have logged in successfully."
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:633
+msgid "Sorry! Wrong Code"
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:642
+msgid "Sorry! Wrong Code, try login again."
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:711
+msgid ""
+"Sorry! Your Facebook ID does not match the stored Facebook ID in our "
+"database."
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:752
+msgid ""
+"Sorry! The posted PIN code does not match the stored PIN code in our "
+"database."
+msgstr ""
+
+#: hooks/2fa_actions/tebravo.login.php:789
+#: hooks/2fa_actions/tebravo.login.php:797
+msgid "Sorry! The question or the answer or both are wrong."
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:51
+msgid "Blog does not exists!"
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:74 hooks/antivirus/db_scanner.php:155
+msgid "Suspect"
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:75 hooks/antivirus/db_scanner.php:91
+#: hooks/antivirus/db_scanner.php:156 includes/tebravo.dashboard.php:372
+msgid "Edit"
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:90
+#: hooks/antivirus/filechange_scanner.php:454
+#: hooks/antivirus/filechange_scanner.php:474
+#: hooks/antivirus/filechange_scanner.php:510
+msgid "Clean"
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:104 hooks/antivirus/db_scanner.php:166
+msgid "Suspected Posts or Pages"
+msgstr ""
+
+#: hooks/antivirus/db_scanner.php:163
+msgid "Good News! No Infected Found."
+msgstr ""
+
+#: hooks/antivirus/filechange_scanner.php:104
+msgid "Can not write to file"
+msgstr ""
+
+#: hooks/antivirus/filechange_scanner.php:460
+#: hooks/antivirus/filechange_scanner.php:480
+#: hooks/antivirus/filechange_scanner.php:508
+msgid "Moved to quarantine"
+msgstr ""
+
+#: hooks/antivirus/filechange_scanner.php:463
+#: hooks/antivirus/filechange_scanner.php:483
+#: hooks/antivirus/filechange_scanner.php:517
+msgid "Infected"
+msgstr ""
+
+#: hooks/antivirus/filechange_scanner.php:497
+#: hooks/antivirus/filechange_scanner.php:507 hooks/tebravo.antivirus.php:2660
+msgid "Removed"
+msgstr ""
+
+#: hooks/antivirus/googshavar_scanner.php:41
+msgid "Google safe browsing API is missing, Please update"
+msgstr ""
+
+#: hooks/antivirus/googshavar_scanner.php:42
+msgid "settings"
+msgstr ""
+
+#: hooks/antivirus/googshavar_scanner.php:42
+msgid "antivirus"
+msgstr ""
+
+#: hooks/antivirus/spamcheck_scanner.php:61
+msgid "Listed"
+msgstr ""
+
+#: hooks/antivirus/spamcheck_scanner.php:72
+msgid "Not Listed"
+msgstr ""
+
+#: hooks/antivirus/spamcheck_scanner.php:80
+msgid "This ip has"
+msgstr ""
+
+#: hooks/antivirus/spamcheck_scanner.php:80
+msgid "bad listings of"
+msgstr ""
+
+#: hooks/antivirus/utility.php:23
+msgid "Please login in."
+msgstr ""
+
+#: hooks/antivirus/utility.php:75 includes/tebravo.installer.php:433
+#: includes/tebravo.installer.php:437
+msgid "High"
+msgstr ""
+
+#: hooks/antivirus/utility.php:76
+msgid "May be"
+msgstr ""
+
+#: hooks/antivirus/utility.php:76
+msgid "SHELL/BACKDOOR"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:111
+msgid "No files in the list"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:115
+msgid "Safe list. Full control on files in the list."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:116 hooks/tebravo.antivirus.php:240
+#: hooks/tebravo.logwatch.php:68 hooks/tebravo.traffic.php:355
+msgid "Flush"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:117
+msgid "Antivirus - Safe List"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:135 hooks/tebravo.antivirus.php:171
+#: hooks/tebravo.antivirus.php:1702
+msgid "Redirecting ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:199 hooks/tebravo.antivirus.php:279
+msgid "Sure! Delete File From Server?!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:199 hooks/tebravo.antivirus.php:279
+msgid "Delete File"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:202 hooks/tebravo.antivirus.php:282
+#: hooks/tebravo.antivirus.php:2666
+msgid "Mark as Safe"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:207 hooks/tebravo.antivirus.php:287
+msgid "Removed!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:210
+msgid "Remove from list"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:236
+msgid "No files stored in the quarantine"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:239
+msgid "Quarantine is the safe place to store suspected files."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:241
+msgid "Antivirus - Quarantine"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:364
+msgid "All processes and tools are available here!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:365 hooks/tebravo.antivirus.php:1746
+#: includes/tebravo.init.php:1158
+msgid "Start Scan"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:366
+msgid "Antivirus - Dashboard"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:371
+msgid "Are you sure?! Delete this process!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:407
+msgid "In Progress (Running Now)"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:410 hooks/tebravo.antivirus.php:487
+#: hooks/tebravo.antivirus.php:2078 hooks/tebravo.antivirus.php:2143
+#: hooks/tebravo.antivirus.php:2625
+msgid "PID"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:412 hooks/tebravo.antivirus.php:489
+msgid "Module (Type)"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:414 hooks/tebravo.antivirus.php:491
+msgid "Total Files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:415 hooks/tebravo.antivirus.php:492
+#: hooks/tebravo.backups.php:184 hooks/tebravo.backups.php:206
+#: hooks/tebravo.backups.php:248 hooks/tebravo.backups.php:270
+#: hooks/tebravo.cronjobs.php:193 hooks/tebravo.housekeeping.php:367
+#: hooks/tebravo.housekeeping.php:375 hooks/tebravo.housekeeping.php:382
+#: hooks/tebravo.housekeeping.php:389 hooks/tebravo.housekeeping.php:396
+#: hooks/tebravo.housekeeping.php:404 hooks/tebravo.housekeeping.php:411
+#: hooks/tebravo.housekeeping.php:418 hooks/tebravo.housekeeping.php:425
+#: hooks/tebravo.housekeeping.php:433 hooks/tebravo.housekeeping.php:440
+msgid "Delete"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:426 hooks/tebravo.antivirus.php:502
+msgid "Cronjob"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:466 hooks/tebravo.antivirus.php:547
+msgid "Process"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:467 hooks/tebravo.antivirus.php:548
+#: hooks/tebravo.backups.php:180 hooks/tebravo.backups.php:202
+#: hooks/tebravo.backups.php:244 hooks/tebravo.backups.php:266
+msgid "Since"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:484
+msgid "Finished (What Are Done)"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:659 hooks/tebravo.antivirus.php:2525
+msgid "Stopped!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:707
+msgid "Resume Scan Process ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:761
+msgid "Start Over ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:818 hooks/tebravo.antivirus.php:820
+msgid "SAFE"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:819 hooks/tebravo.antivirus.php:825
+msgid "URL"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:820 hooks/tebravo.antivirus.php:826
+#: hooks/tebravo.antivirus.php:2012 hooks/tebravo.antivirus.php:2077
+#: hooks/tebravo.antivirus.php:2142
+msgid "Result"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:824 hooks/tebravo.antivirus.php:826
+msgid "NOT SAFE"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:913
+msgid "REPORT"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:950 hooks/tebravo.housekeeping.php:93
+msgid "Select/Unselect All"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:976
+msgid "Open"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1215
+msgid "PID file does not exists"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1280
+msgid "Done."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1352
+msgid "Skipped"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1357 hooks/tebravo.antivirus.php:2259
+#: hooks/tebravo.antivirus.php:2266 hooks/tebravo.antivirus.php:2273
+msgid "Clear"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1373
+msgid "Suspicious"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1487
+msgid "PID file exit during error!"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1574
+msgid "Antivirus - Malware Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1579
+msgid "Antivirus - PHPMussel Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1584
+msgid "Antivirus - Google Safe Browsing Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1589
+msgid "Antivirus - Spam Listing Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1594
+msgid "Antivirus - Database Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1599
+msgid "Antivirus - File Change Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1617
+msgid "Sorry, PHPMussel for premium only."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1824
+msgid "Select Directories or files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1827
+msgid "Choose an option"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1830
+msgid "Spam Checker"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1833
+msgid "Database Checker"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1836
+msgid "File Change Checker"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1913
+msgid "Mail URL"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:1918
+msgid "Another URL"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2010
+msgid "Domain Name"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2011
+msgid "IP Address"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2012 hooks/tebravo.antivirus.php:2014
+#: hooks/tebravo.antivirus.php:2077 hooks/tebravo.antivirus.php:2080
+#: hooks/tebravo.antivirus.php:2142 hooks/tebravo.antivirus.php:2145
+msgid "Loading ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2075 hooks/tebravo.housekeeping.php:373
+msgid "Posts"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2076
+msgid "Pages"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2141
+msgid "Directory"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2248
+msgid "File"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2249
+msgid "Size"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2250
+msgid "Past Modify"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2251
+msgid "Last Modify"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2252
+msgid "Scan"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2254
+msgid "New Files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2261
+msgid "Changed Files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2268
+msgid "Deleted Files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2287 hooks/tebravo.antivirus.php:2288
+msgid "Checking ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2523
+msgid "Preparing ..."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2528
+msgid "Total Files:"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2529
+msgid "Started:"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2532
+msgid "Scan Results"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2533
+msgid "Checked:"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2534
+msgid "Affected:"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2536
+msgid "Affected Files List"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2540
+msgid "Stop"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2541
+msgid "Resume"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2543 hooks/tebravo.wconfig.php:1032
+msgid "Start Over"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2544
+msgid "Take Action"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2624
+msgid "Affected Results"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2663 hooks/tebravo.firewall.php:1616
+msgid "Remove"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2670
+msgid "Report"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2677
+msgid "No problems found."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2704
+msgid ""
+"Choose the scanner you need to use. You can scan multiple times with "
+"different scanners."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2705
+msgid "Antivirus - Scan Files"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2709
+msgid "Choose Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2715
+msgid "Malware Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2716
+msgid "Scan for web malicious codes like e.g: shell files."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2723 hooks/tebravo.antivirus.php:2906
+msgid "PHPMussel Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2723 hooks/tebravo.antivirus.php:2906
+#: hooks/tebravo.antivirus.php:2936 hooks/tebravo.antivirus.php:2975
+#: hooks/tebravo.antivirus.php:3014 hooks/tebravo.bforce.php:929
+#: hooks/tebravo.bforce.php:939 hooks/tebravo.bforce.php:949
+#: hooks/tebravo.bforce.php:960 hooks/tebravo.recaptcha.php:386
+#: hooks/tebravo.wpadmin.php:562 hooks/tebravo.wpadmin.php:588
+#: hooks/tebravo.wpadmin.php:628 includes/tebravo.init.php:982
+#: includes/tebravo.init.php:989
+msgid "Premium"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2724
+msgid ""
+"Scan for viruses and malware files like e.g: uploaded files from affected "
+"computer."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2731 hooks/tebravo.antivirus.php:2909
+msgid "Google Safe Browsing Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2732
+msgid "Scan for pages which marked by browsers as malware or phishing pages."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2739
+msgid "Spam Listing Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2740
+msgid "Check if your domain or URLs marked as spam."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2749 hooks/tebravo.antivirus.php:2764
+#: hooks/tebravo.antivirus.php:2918
+msgid "Database Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2756
+msgid "Network Site"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2766
+msgid ""
+"Scan database to check if it contains any XSS codes via any SQL Injection "
+"bugs at your Wordpress."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2773
+msgid "File Change Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2774
+msgid ""
+"Scan directories and files to check if there are any changes (new, altered "
+"or deleted files)."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2781
+msgid "Enable some scan modules from <i>settings > antivirus</i>."
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2888
+msgid "Antivirus Settings"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2900
+msgid "Enable/Disable Scanners"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2903
+msgid "Anti Malware Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2910
+msgid "Google API Key"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2912
+msgid "Create API"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2915
+msgid "Domain Spam Black List Scanner"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2921
+msgid "Scanner Options"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2924 hooks/tebravo.antivirus.php:2963
+#: hooks/tebravo.antivirus.php:3002 hooks/tebravo.antivirus.php:3049
+#: hooks/tebravo.antivirus.php:3068 hooks/tebravo.firewall.php:1796
+msgid "Never"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2925 hooks/tebravo.antivirus.php:2964
+#: hooks/tebravo.antivirus.php:3003 hooks/tebravo.antivirus.php:3050
+#: hooks/tebravo.antivirus.php:3069
+msgid "Scan for malware"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2936
+msgid "Scan attachments while being uploaded?"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2965 hooks/tebravo.antivirus.php:3004
+#: hooks/tebravo.antivirus.php:3051 hooks/tebravo.antivirus.php:3070
+msgid "Scan with PHPMussel"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2966 hooks/tebravo.antivirus.php:3005
+#: hooks/tebravo.antivirus.php:3052 hooks/tebravo.antivirus.php:3071
+msgid "Both scanners"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:2975
+msgid "Scan New Plugins Before Using It?"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3014
+msgid "Scan New Themes Before  Using It?"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3040
+msgid "File Change Detection"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3046
+msgid "File Change Options"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3061
+msgid "Scan New Files automatically?"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3080
+msgid "Scan Altered Files Automatically?"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3087
+msgid "Nothing"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3088
+msgid "Auto Delete"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3089
+msgid "Move to Quarantine"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3098
+msgid "Affected Files Action:"
+msgstr ""
+
+#: hooks/tebravo.antivirus.php:3105 hooks/tebravo.bforce.php:999
+msgid "Save"
+msgstr ""
+
+#: hooks/tebravo.backups.php:31
+msgid "Database Backups."
+msgstr ""
+
+#: hooks/tebravo.backups.php:32
+msgid "Backups"
+msgstr ""
+
+#: hooks/tebravo.backups.php:51 hooks/tebravo.backups.php:70
+#: hooks/tebravo.backups.php:296
+msgid "Access Denied!"
+msgstr ""
+
+#: hooks/tebravo.backups.php:57
+msgid "Backup Failed!"
+msgstr ""
+
+#: hooks/tebravo.backups.php:83
+msgid "Create new backup"
+msgstr ""
+
+#: hooks/tebravo.backups.php:93
+msgid "Loading, Please wait..."
+msgstr ""
+
+#: hooks/tebravo.backups.php:148
+msgid "Stats"
+msgstr ""
+
+#: hooks/tebravo.backups.php:149
+msgid "All Files"
+msgstr ""
+
+#: hooks/tebravo.backups.php:150
+msgid "Used Space"
+msgstr ""
+
+#: hooks/tebravo.backups.php:170 includes/tebravo.init.php:497
+#: includes/tebravo.init.php:498
+msgid "Database Backups"
+msgstr ""
+
+#: hooks/tebravo.backups.php:171 hooks/tebravo.backups.php:235
+msgid "Manually"
+msgstr ""
+
+#: hooks/tebravo.backups.php:172 hooks/tebravo.backups.php:194
+#: hooks/tebravo.backups.php:236 hooks/tebravo.backups.php:258
+msgid "No Files!"
+msgstr ""
+
+#: hooks/tebravo.backups.php:184 hooks/tebravo.backups.php:206
+#: hooks/tebravo.backups.php:248 hooks/tebravo.backups.php:270
+msgid "Are you sure?!"
+msgstr ""
+
+#: hooks/tebravo.backups.php:185 hooks/tebravo.backups.php:207
+#: hooks/tebravo.backups.php:249 hooks/tebravo.backups.php:271
+msgid "Download"
+msgstr ""
+
+#: hooks/tebravo.backups.php:186 hooks/tebravo.backups.php:208
+#: hooks/tebravo.backups.php:250 hooks/tebravo.backups.php:272
+msgid "KB"
+msgstr ""
+
+#: hooks/tebravo.backups.php:193 hooks/tebravo.backups.php:257
+msgid "Scheduled"
+msgstr ""
+
+#: hooks/tebravo.backups.php:234
+msgid "Files Backups"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:118
+msgid "Your account still waits admin approval."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:227 hooks/tebravo.bforce.php:232
+msgid "Disapprove"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:241
+msgid "Status"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:255 hooks/tebravo.bforce.php:262
+msgid "Approved"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:257
+msgid "Denied"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:259
+msgid "Pending"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:334
+msgid "<strong>ERROR</strong>: This login name not allowed."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:342
+msgid "<strong>ERROR</strong>: Username is too short."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:349
+msgid "<strong>ERROR</strong>: Username is too long."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:363
+msgid "<strong>ERROR</strong>: Register closed at your country."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:377
+msgid "<strong>ERROR</strong>: Try another email address."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:442
+msgid "<strong>ERROR</strong>: Your account still waits admin approval."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:445
+msgid "Try again?!"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:641
+msgid "Security Alert"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:641
+msgid "Your are locked! please try again after "
+msgstr ""
+
+#: hooks/tebravo.bforce.php:680
+msgid "Try Now!"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:793
+msgid ""
+"<strong>Security Alert</strong>: We can not continue saving your weak "
+"password, Please choose strong one."
+msgstr ""
+
+#: hooks/tebravo.bforce.php:854
+msgid "Enable Protection"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:856 hooks/tebravo.bforce.php:885
+#: hooks/tebravo.bforce.php:975 hooks/tebravo.wpadmin.php:632
+#: hooks/tebravo.wpadmin.php:811 hooks/tebravo.wpadmin.php:945
+#: hooks/tebravo.wpadmin.php:1027 includes/tebravo.init.php:875
+#: includes/tebravo.init.php:887 includes/tebravo.init.php:896
+#: includes/tebravo.init.php:905 includes/tebravo.init.php:917
+#: includes/tebravo.init.php:943 includes/tebravo.init.php:965
+#: includes/tebravo.init.php:983 includes/tebravo.init.php:1054
+msgid "Yes"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:857 hooks/tebravo.bforce.php:886
+#: hooks/tebravo.bforce.php:976 hooks/tebravo.wpadmin.php:633
+#: hooks/tebravo.wpadmin.php:812 hooks/tebravo.wpadmin.php:946
+#: hooks/tebravo.wpadmin.php:1028 includes/tebravo.init.php:876
+#: includes/tebravo.init.php:888 includes/tebravo.init.php:897
+#: includes/tebravo.init.php:906 includes/tebravo.init.php:918
+#: includes/tebravo.init.php:944 includes/tebravo.init.php:966
+#: includes/tebravo.init.php:984 includes/tebravo.init.php:1055
+msgid "No"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:863
+msgid "Username"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:863 hooks/tebravo.mail.php:368
+msgid "Email Address"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:863
+msgid "Username OR Email"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:871
+msgid "Available login method(s)"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:893
+msgid "Maximum Login Attempts Per IP"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:901
+msgid "White Listed IPs"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:910
+msgid "Maximum Login Attempts Per USER"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:919
+msgid "Time Before Unblock"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:921 includes/functions.php:163
+msgid "minutes"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:928 hooks/tebravo.bforce.php:931
+#: hooks/tebravo.bforce.php:938 hooks/tebravo.bforce.php:941
+msgid "Use comma, to separate between it. like e.g: admin,control"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:929
+msgid "Disallowed usernames for login"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:939
+msgid "Disallowed usernames for register"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:948
+msgid "Use comma, to separate between it without @. like e.g: admin,control"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:949
+msgid "Disallowed email hosts/providers"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:951
+msgid ""
+"Use comma, to separate between it without @. like e.g: hotmail.com,mail.ru,"
+"yahoo.com"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:959
+msgid "Use comma, to separate between it. like e.g: US,UK,EG"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:960
+msgid "Disallowed countires (for register)"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:962
+msgid "Use comma, to separate between it. like e.g:  US,UK,EG"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:963
+msgid "Except These IP Addresses"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:964
+msgid "Use comma, to separate between it. like e.g:  127.0.0.1,10.11.12.13"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:973
+msgid "Moderate New Members (new registered users)"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:983
+msgid "Minimum Chars for Username (Min Limit) (new users)"
+msgstr ""
+
+#: hooks/tebravo.bforce.php:992
+msgid "Minimum Chars for Username (Max Limit) (new users)"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:64 hooks/tebravo.cronjobs.php:259
+msgid "Once every minute"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:69 hooks/tebravo.cronjobs.php:260
+msgid "Once every 5 minutes"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:74 hooks/tebravo.cronjobs.php:261
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:79 hooks/tebravo.cronjobs.php:262
+msgid "Once every hour"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:84 hooks/tebravo.cronjobs.php:263
+msgid "Once every day"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:89 hooks/tebravo.cronjobs.php:264
+msgid "Twice Daily"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:94 hooks/tebravo.cronjobs.php:265
+msgid "Twice every week"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:99 hooks/tebravo.cronjobs.php:266
+msgid "Once every week"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:149
+msgid "WP Cronjob Status"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:153
+msgid "Cronjobs"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:184
+msgid "Task"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:185
+msgid "Next Run"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:186
+msgid "Action"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:272
+msgid "Email Notifications"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:293
+msgid "Save and Update"
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:296
+msgid "It means that email notification enabled."
+msgstr ""
+
+#: hooks/tebravo.cronjobs.php:510
+msgid "You can not duplicate events or hooks."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:104
+msgid "Page Not Found"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:126
+msgid "Home"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:134
+msgid "If you want"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:136
+msgid "You can use our search form to find your requested page."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:163
+msgid "Search for ..."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:164
+msgid "Search"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:180 hooks/tebravo.errorpages.php:183
+#: hooks/tebravo.errorpages.php:189 hooks/tebravo.errorpages.php:194
+msgid "Oops, The Page you requested was not found!"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:186
+msgid "Oops, Access Denied!"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:192
+msgid "Oops, Server error!"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:206
+msgid "Error Pages Dashboard"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:255
+msgid ""
+"When you enable this option, All Wordpress does not exist link will replaced "
+"with this tool template."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:256
+msgid "404 Page"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:269
+msgid ""
+"<i>Not Recommended</i>, If you want to hide your Wordpress, You should "
+"disable this option."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:270
+msgid "Include Search Form"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:283
+msgid ""
+"If it is enabled, Every visitor details like country, device, IP, proxy and "
+"browser will be saved in the error log files."
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:284
+msgid "Save to Error Log"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:293
+msgid "Error Pages Template"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:294
+msgid "Choose Template"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:297
+msgid "Unlock more templates with the premium version"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:302
+msgid "Error Description"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:303
+msgid "Write Description"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:304
+msgid "No HTML!"
+msgstr ""
+
+#: hooks/tebravo.errorpages.php:308 hooks/tebravo.firewall.php:1859
+#: hooks/tebravo.mail.php:377 hooks/tebravo.recaptcha.php:425
+#: includes/tebravo.init.php:1066
+msgid "Save Settings"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:175
+msgid "Comments from bots disallowed!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:184
+msgid "Comments from proxy disallowed!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:373
+msgid "You were blocked!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1278
+msgid "New IP Blocked"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1279
+msgid "Visit"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1283 hooks/tebravo.firewall.php:1618
+#: hooks/tebravo.traffic.php:383
+msgid "Country"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1285
+msgid "ISP"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1287 hooks/tebravo.traffic.php:384
+msgid "Current Page"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1289 hooks/tebravo.traffic.php:787
+msgid "Device"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1291 hooks/tebravo.traffic.php:793
+msgid "Browser"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1298
+msgid "Bot Blocked!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1304
+msgid "IP Blocked!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1522
+msgid "Firewall Log"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1560
+msgid "Showing "
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1577
+msgid "Slow Down"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1579 hooks/tebravo.traffic.php:744
+#: hooks/tebravo.traffic.php:771
+msgid "Block"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1605
+msgid "Today"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1606
+msgid "Yesterday"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1617
+msgid "Whitelist"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1618 hooks/tebravo.traffic.php:382
+msgid "IP"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1641
+msgid "Log is empty!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1648 includes/tebravo.installer.php:365
+#: includes/tebravo.installer.php:455 includes/tebravo.installer.php:541
+msgid "Previous"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1649 includes/tebravo.installer.php:366
+#: includes/tebravo.installer.php:456 includes/tebravo.installer.php:542
+msgid "Next"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1670 hooks/tebravo.firewall.php:1720
+msgid "Watch Log"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1671 hooks/tebravo.firewall.php:1721
+msgid "Firewall Dashboard"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1696
+msgid "Firewall Disabled! No Profile Selected."
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1753
+msgid "Pro Only"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1756
+msgid ""
+"Choose a profile that fits your needs, There are three profiles: High, "
+"Medium and Low, If you want to disable firewall choose > Disabled."
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1757
+msgid "Firewall Profile (Security Level)"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1774
+msgid "PHP Security level and Firewall level will be the same ."
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1775 includes/tebravo.installer.php:436
+msgid "PHP Security"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1786
+msgid "Page"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1788
+msgid "The screen which visitor will see it if firewall blocked him."
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1789
+msgid "Block Screen (Page)"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1797
+msgid "15 Minutes"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1798
+msgid "30 Minutes"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1799
+msgid "60 Minutes"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1800
+msgid "3 Hours"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1801
+msgid "12 Hours"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1802
+msgid "1 Day"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1811
+msgid "Choose, when firewall will re-allow visitor (agent) to use the website."
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1812
+msgid "The Ignore (block) Period"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1819
+msgid "Message for blocked visitors"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1823
+msgid "NO HTML!"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1824
+msgid "Will be active only if error pages option enabled"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1828
+msgid "404 White List Files"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1832 hooks/tebravo.firewall.php:1840
+#: hooks/tebravo.firewall.php:1848 hooks/tebravo.firewall.php:1856
+msgid "one item per line"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1836
+msgid "404 White List Extensions"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1844
+msgid "White List IPs"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1852
+msgid "White List Countries"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1856
+msgid "Only country code (shorcode) like US,UK or DE"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1906
+msgid "Current Profile Options"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1908
+msgid "Level"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1911
+msgid "Max Connections Per IP"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1914
+msgid "Action on Max Connections"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1918
+msgid "Block IP"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1922
+msgid "Block Country"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1925
+msgid "PHP Security Level"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1929
+msgid "Detect 404 Pages"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1932
+msgid "404 Pages Maximum Attempts"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1935
+msgid "Action on 404 Maximum Attempts"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1939
+msgid "Disable XMLRPC"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1943
+msgid "Disable Ping Back"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1947
+msgid "Create indexes for non-indexed directories"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1951
+msgid "Disable BOTs Comments"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1955
+msgid "Disable Comments From Proxy"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1959
+msgid "Block Fake Google Crawlers and Bots"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1963
+msgid "Query Filtering (Protect from XSS and SQL Injection)"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1966
+msgid "Maximum Attempts for Bad Queries"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1969
+msgid "Action on Maximum Attempts for Bad Queries"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1973
+msgid "Block for reCAPTCHA error attempts"
+msgstr ""
+
+#: hooks/tebravo.firewall.php:1976
+msgid "Maximum reCAPTCHA error Attempts"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:62 hooks/tebravo.housekeeping.php:217
+msgid "Can not remove all or some files!"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:90
+msgid "Clean Up Files"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:90 hooks/tebravo.housekeeping.php:359
+msgid "Files"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:107
+msgid "No Files Found!"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:112
+msgid "Delete Selected"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:298
+msgid "Clean your Wordpress."
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:299
+msgid "Optimize DB"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:300
+msgid "Housekeeping (Wordpress Cleaner Module)"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:358
+msgid "Directories"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:360
+msgid "Show"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:366
+msgid "/tmp"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:374
+msgid "Posts (Revision)"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:381
+msgid "Posts (Draft)"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:388
+msgid "Posts (Auto Draft)"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:395
+msgid "Post Meta"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:402
+msgid "Comments"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:403
+msgid "Moderated Comments"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:410
+msgid "Trash Comments"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:417
+msgid "Spam Comments"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:424
+msgid "Comment Meta"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:431
+msgid "Others"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:432
+msgid "Relationships"
+msgstr ""
+
+#: hooks/tebravo.housekeeping.php:439
+msgid "Dashboard Transient Feed"
+msgstr ""
+
+#: hooks/tebravo.logwatch.php:69
+msgid "Log Watch"
+msgstr ""
+
+#: hooks/tebravo.logwatch.php:126 hooks/tebravo.logwatch.php:175
+msgid "Log File is too large!"
+msgstr ""
+
+#: hooks/tebravo.logwatch.php:131 hooks/tebravo.logwatch.php:180
+msgid "Log File is empty!"
+msgstr ""
+
+#: hooks/tebravo.logwatch.php:160 hooks/tebravo.logwatch.php:220
+msgid "Lines"
+msgstr ""
+
+#: hooks/tebravo.logwatch.php:161 hooks/tebravo.logwatch.php:221
+#: hooks/tebravo.mail.php:140
+msgid "Empty Log"
+msgstr ""
+
+#: hooks/tebravo.mail.php:134 includes/tebravo.init.php:569
+msgid "Settings"
+msgstr ""
+
+#: hooks/tebravo.mail.php:135
+msgid "E-Mail Dashboard"
+msgstr ""
+
+#: hooks/tebravo.mail.php:154
+msgid "From"
+msgstr ""
+
+#: hooks/tebravo.mail.php:155
+msgid "Subject"
+msgstr ""
+
+#: hooks/tebravo.mail.php:156
+msgid "Date/Time"
+msgstr ""
+
+#: hooks/tebravo.mail.php:158
+msgid "Count"
+msgstr ""
+
+#: hooks/tebravo.mail.php:162
+msgid "Email log is empty!"
+msgstr ""
+
+#: hooks/tebravo.mail.php:193
+msgid "Unkown"
+msgstr ""
+
+#: hooks/tebravo.mail.php:246
+msgid "Create New File"
+msgstr ""
+
+#: hooks/tebravo.mail.php:313
+msgid "Watch"
+msgstr ""
+
+#: hooks/tebravo.mail.php:314
+msgid "E-Mail Settings Dashboard"
+msgstr ""
+
+#: hooks/tebravo.mail.php:329
+msgid "This tool designed for watching outbound email messages in Wordpress."
+msgstr ""
+
+#: hooks/tebravo.mail.php:331
+msgid "It can help if someone using backdoor in your blog to send spam emails."
+msgstr ""
+
+#: hooks/tebravo.mail.php:332
+msgid "Mail Watching Tool"
+msgstr ""
+
+#: hooks/tebravo.mail.php:350
+msgid "Firewall Notifications"
+msgstr ""
+
+#: hooks/tebravo.mail.php:351
+msgid "If human blocked"
+msgstr ""
+
+#: hooks/tebravo.mail.php:357
+msgid "If bot blocked"
+msgstr ""
+
+#: hooks/tebravo.mail.php:367
+msgid "Emails to receive notifications and reports"
+msgstr ""
+
+#: hooks/tebravo.mail.php:372
+msgid "CC"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:274
+msgid "You must confirm that you are a human."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:277
+msgid "We can not confirm that you are a human."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:280
+msgid "We did not receive confirmation that you are a human."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:294
+msgid "reCAPTCHA Dashboard"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:343
+msgid ""
+"reCAPTCHA field will appear for guests while they are posting new comments."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:344
+msgid "Posting New Comments"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:357
+msgid "reCAPTCHA field will appear for guests while they are trying to login."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:358
+msgid "Members Login"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:371
+msgid ""
+"reCAPTCHA field will appear for guests while they are trying to register new "
+"accounts."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:372
+msgid "New Accounts (Register)"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:385
+msgid ""
+"reCAPTCHA field will appear for guests while they are trying to get new "
+"passwords."
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:386
+msgid "Reset Passwords"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:398
+msgid "Create Key and Secret"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:399
+msgid "API Settings (from google)"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:401
+msgid "Site Key"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:409
+msgid "Theme Style"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:415
+msgid "Light"
+msgstr ""
+
+#: hooks/tebravo.recaptcha.php:419
+msgid "Dark"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:354
+msgid "Watch your online visitors and what are they doing?!."
+msgstr ""
+
+#: hooks/tebravo.traffic.php:356
+msgid "Traffic Tracker (Real-time Online Visitors)"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:398
+msgid "All Hits"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:399
+msgid "Human Only"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:400
+msgid "Bot Only"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:414
+msgid "Any"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:415
+msgid "Total Sessions"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:416
+msgid "404 Attempts"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:434
+msgid "Online Now"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:435
+msgid "Group By"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:436
+msgid "Filter By"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:437
+msgid "Sort By"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:438
+msgid "Apply"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:541
+msgid "No Activity!"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:597
+msgid ">>"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:602 hooks/tebravo.traffic.php:687
+msgid "Sessions"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:603
+msgid "404 Pages"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:688
+msgid "404"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:736
+msgid "Country Blocked"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:739 hooks/tebravo.traffic.php:766
+msgid "Unblock"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:756
+msgid "Past Sessions"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:763
+msgid "IP Blocked"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:781
+msgid "Network (ISP)"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:879
+msgid "Your action successfully complete."
+msgstr ""
+
+#: hooks/tebravo.traffic.php:1118
+msgid "No Data, Try Refresh"
+msgstr ""
+
+#: hooks/tebravo.traffic.php:1135
+msgid "You"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:197
+msgid "WP-Config Tweak Settings"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:205
+msgid "Database Table Prefix"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:211 hooks/tebravo.wpadmin.php:564
+#: hooks/tebravo.wpadmin.php:577 hooks/tebravo.wpadmin.php:590
+#: hooks/tebravo.wpadmin.php:603 hooks/tebravo.wpadmin.php:617
+msgid "Open Wizard"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:214
+msgid "Themes and Plugins Editor"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:231 hooks/tebravo.wconfig.php:296
+#: hooks/tebravo.wconfig.php:313 hooks/tebravo.wconfig.php:338
+msgid "Status:"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:236
+msgid "WPConfig File Permissions 'wp-config.php'"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:243
+msgid "Always back to read-only 0400 permissions after every process."
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:257 hooks/tebravo.wconfig.php:279
+msgid "Current:"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:262
+msgid "Wordpress Automatic Updates"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:266
+msgid "Wordpress Core Updates"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:266
+msgid "Very Very Important"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:283
+msgid "Themes Automatic Updates"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:300
+msgid "Plugins Automatic Updates"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:318
+msgid "Display Errors & Debug"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:343
+msgid "Authentication Unique Keys and Salts"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:363
+msgid "Last Update:"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:725
+msgid "Tables Process"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:735 hooks/tebravo.wconfig.php:774
+msgid "Success"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:738 hooks/tebravo.wconfig.php:777
+msgid "Failed"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:749
+msgid "OPTION Table Process"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:788
+msgid "USERMETA Table Process"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:810
+msgid "updated successfully"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:813
+msgid "failed to update"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:817
+msgid "Needed data "
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:871
+msgid ""
+"If wp-config.php do not update, Please do it manually to avoid the blog stop!"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:873
+msgid "Config Path"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:875
+msgid "Find this string"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1006
+msgid "Tables List"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1010
+msgid "Old Tables"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1012
+msgid "New Tables"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1015
+msgid "Options Table"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1022
+msgid "Usermeta Table"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1025
+msgid "Some data will be altered here."
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1054
+msgid ""
+"When you click 'Start' button, this wizard will automatically backup "
+"wordpress database with old `dbprefix`."
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1056
+msgid "So, please make sure that the backup directory is <i>writable</i>."
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1058
+msgid "DB Backup Directory: "
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1060
+msgid "DB Backup File Name: "
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1075 hooks/tebravo.wconfig.php:1085
+#: includes/tebravo.core.php:348 includes/tebravo.core.php:408
+msgid "Writable"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1078 hooks/tebravo.wconfig.php:1088
+msgid "Unwritable"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1079 hooks/tebravo.wconfig.php:1089
+msgid "Try Fix"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1101
+msgid "Get New One"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1102
+msgid "from 3 to 7 letters , numbers or alphanumeric (no special characters)"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1104
+msgid "Database Backup Directory"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1105
+msgid "wp-config.php"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1107
+msgid "Enable development mode until the process complete"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1111 includes/tebravo.installer.php:259
+msgid "Start"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1112 hooks/tebravo.wpadmin.php:836
+#: hooks/tebravo.wpadmin.php:959 hooks/tebravo.wpadmin.php:1095
+#: includes/tebravo.dashboard.php:478 includes/tebravo.init.php:1100
+msgid "Back"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1190 includes/tebravo.init.php:1324
+msgid "BRAVO can not backup the wp-config.php, Please do it manually!"
+msgstr ""
+
+#: hooks/tebravo.wconfig.php:1203 includes/tebravo.init.php:1323
+msgid "wp-config.php does not exists in path <i>"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:492
+msgid ""
+"The most important section, every admin must sure that his Wordpress admin "
+"area is secure."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:493 includes/tebravo.init.php:513
+#: includes/tebravo.init.php:514
+msgid "WPAdmin Security"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:498 hooks/tebravo.wpadmin.php:853
+#: hooks/tebravo.wpadmin.php:1116 includes/tebravo.core.php:320
+#: includes/tebravo.init.php:698 includes/tebravo.init.php:1083
+msgid "Wrong Access"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:560
+msgid ""
+"This is a perfect tool to set a password for this plugin and you can choose "
+"some administrators only to give them the ability to manage BRAVO plugin."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:561 hooks/tebravo.wpadmin.php:574
+#: hooks/tebravo.wpadmin.php:587 hooks/tebravo.wpadmin.php:600
+#: hooks/tebravo.wpadmin.php:614
+msgid "Current Status:"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:562
+msgid "Protect Plugin"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:573 hooks/tebravo.wpadmin.php:778
+msgid ""
+"Hiding the wp-login.php is the most powerful trick to make hackers confused, "
+"they cannot reach your real login path to the admin area or member area if "
+"they are using the random attack."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:575
+msgid "Hide wp-login.php"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:586
+msgid ""
+"The admin area is the most dangerous area, so you must make it in the best "
+"security level. If you change its name from WP-admin to anything, that means "
+"all guests will be denied to reach it, only logged in users who can reach it "
+"after using the hidden WP-login new path."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:599 hooks/tebravo.wpadmin.php:926
+msgid ""
+"The plugin will clear the current sessions for logged in users if they hold "
+"their accounts without using after (n) seconds, you will choose the duration "
+"before forcing them to log in again."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:601
+msgid "Automatically log out the idle users/admins"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:612 hooks/tebravo.wpadmin.php:1007
+msgid ""
+"You are able to choose from many options when you decide to enable 2-Step "
+"Verification."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:613 hooks/tebravo.wpadmin.php:1008
+msgid ""
+"<u>Available options:</u> Two factor authentication, Facebook Verification, "
+"Four numbers pin code and Security question."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:615
+msgid "2-Step Verification"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:626
+msgid ""
+"Check if current logged user IP is real IP or proxy, If proxy it will be "
+"rejected."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:628
+msgid "Access Options"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:629
+msgid "Block access from proxy"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:630
+msgid "WP-ADMIN may be become slow"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:637
+msgid ""
+"All countries will be denied from access to wp-admin except those countries "
+"you choose to put it in allowed or white list."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:638
+msgid "Allowed countries"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:639 hooks/tebravo.wpadmin.php:649
+msgid "Be Careful"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:642 hooks/tebravo.wpadmin.php:652
+msgid "Leave it blank to disable this option."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:647
+msgid ""
+"All IP addresses will be denied from access to wp-admin except those IPs you "
+"choose to put it in allowed or white list."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:648
+msgid "Allowed IPs"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:658 hooks/tebravo.wpadmin.php:835
+#: hooks/tebravo.wpadmin.php:958 hooks/tebravo.wpadmin.php:1094
+msgid "Save Options"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:745
+msgid "Wrong Attempt!"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:779
+msgid "WPAdmin Security - Hide WP Login Path"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:787 includes/tebravo.init.php:854
+msgid "The plugin detects that your server is running on NGINX"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:788 includes/tebravo.init.php:855
+msgid "Please follow the NGINX guide by click the following link:"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:789 includes/tebravo.init.php:856
+msgid "NGINX Docs"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:800
+msgid "Hide wp-login path (wp-login.php)"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:802
+msgid "This will appear 404 page when the old wp-login.php requested"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:816
+msgid "New wp-login slug (new path)"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:819
+msgid ""
+"new path like e.g: mylogin, the_login, new-login or login123<br />(3 to 25) "
+"no special characters"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:820
+msgid "Send email now with new link to: "
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:820
+msgid "(with new login link)"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:821 includes/tebravo.init.php:927
+msgid "Administrator"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:822
+msgid "Authors"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:823
+msgid "Editors"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:826
+msgid "New register slug (new register path)"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:829
+msgid ""
+"new path like e.g: register, user_register or new-member<br />(3 to 25) no "
+"special characters"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:830
+msgid "New Register Link:"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:927
+msgid "WPAdmin Security - Idle Users Options"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:934
+msgid "Force Idle Users to Log in Again"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:936
+msgid ""
+"If the plugin detects an inactive user (logged member), It will be forced to "
+"log in again, Agree?"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:952
+msgid "Duration before clear cookies"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:953
+msgid "Set time in seconds"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1009
+msgid "WPAdmin Security - Two Steps Verification"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1016
+msgid "Enable/Disable option"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1018
+msgid ""
+"If you choose to enable this option, all users will be available to use it."
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1039
+msgid "Default Method"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1064
+msgid "Choose roles"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1081
+msgid "Facebook Application Settings"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1089
+msgid "Test Login"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1238
+msgid "Can not create file"
+msgstr ""
+
+#: hooks/tebravo.wpadmin.php:1309
+msgid "Security Alert: Login Link Changed!"
+msgstr ""
+
+#: includes/cronjobs_callback.php:21 includes/cronjobs_callback.php:28
+msgid "DB Backup Done!"
+msgstr ""
+
+#: includes/cronjobs_callback.php:24
+msgid "Your database backup is ready."
+msgstr ""
+
+#: includes/cronjobs_callback.php:53 includes/cronjobs_callback.php:61
+msgid "Files Backup Done!"
+msgstr ""
+
+#: includes/cronjobs_callback.php:56
+msgid "Your wordpress files backup is ready."
+msgstr ""
+
+#: includes/cronjobs_callback.php:58
+msgid "Please check."
+msgstr ""
+
+#: includes/cronjobs_callback.php:216
+msgid "DB Scanner started!"
+msgstr ""
+
+#: includes/cronjobs_callback.php:219
+msgid "<b>Bad Results</b>"
+msgstr ""
+
+#: includes/cronjobs_callback.php:221 includes/cronjobs_callback.php:274
+msgid "Please check antivirus dashboard!"
+msgstr ""
+
+#: includes/cronjobs_callback.php:224
+msgid "DB Scanner Report"
+msgstr ""
+
+#: includes/cronjobs_callback.php:272
+msgid ""
+"Your website have some changes while the <i>Filechange</i> scanner being "
+"running."
+msgstr ""
+
+#: includes/cronjobs_callback.php:277
+msgid "File Change Scanner Report"
+msgstr ""
+
+#: includes/function.login-header.php:78
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: includes/function.login-header.php:79
+msgid "Powered by WordPress"
+msgstr ""
+
+#: includes/functions.php:162 includes/tebravo.init.php:1036
+msgid "seconds"
+msgstr ""
+
+#: includes/functions.php:164
+msgid "hours"
+msgstr ""
+
+#: includes/functions.php:165
+msgid "days"
+msgstr ""
+
+#: includes/functions.php:166
+msgid "weeks"
+msgstr ""
+
+#: includes/functions.php:167
+msgid "months"
+msgstr ""
+
+#: includes/functions.php:168
+msgid "years"
+msgstr ""
+
+#: includes/tebravo.base.php:38
+msgid "Something wrong happened!"
+msgstr ""
+
+#: includes/tebravo.base.php:84
+msgid "Domain"
+msgstr ""
+
+#: includes/tebravo.base.php:85
+msgid "Your E-Mail"
+msgstr ""
+
+#: includes/tebravo.base.php:86
+msgid "Your Custom Message"
+msgstr ""
+
+#: includes/tebravo.base.php:91
+msgid "Include Report"
+msgstr ""
+
+#: includes/tebravo.base.php:92
+msgid "Send"
+msgstr ""
+
+#: includes/tebravo.base.php:164
+msgid "Docs"
+msgstr ""
+
+#: includes/tebravo.base.php:166
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: includes/tebravo.core.php:45
+msgid ""
+"Done. You will be able to download it via FTP only because the directory "
+"locked."
+msgstr ""
+
+#: includes/tebravo.core.php:47
+msgid "Failed! Please make sure that the directory exists and writable."
+msgstr ""
+
+#: includes/tebravo.core.php:71
+msgid "Backup directory is not writable!"
+msgstr ""
+
+#: includes/tebravo.core.php:237
+msgid "Development Mode Enabled"
+msgstr ""
+
+#: includes/tebravo.core.php:275
+msgid "Please check unused THEMES"
+msgstr ""
+
+#: includes/tebravo.core.php:299
+msgid "Please check unused PLUGINS"
+msgstr ""
+
+#: includes/tebravo.core.php:373 includes/tebravo.core.php:432
+msgid "Failed!"
+msgstr ""
+
+#: includes/tebravo.core.php:375 includes/tebravo.core.php:434
+msgid "Success!"
+msgstr ""
+
+#: includes/tebravo.core.php:478
+msgid "Salts updated successfully."
+msgstr ""
+
+#: includes/tebravo.core.php:480
+msgid "Salts update failed!"
+msgstr ""
+
+#: includes/tebravo.core.php:484 includes/tebravo.core.php:527
+#: includes/tebravo.core.php:569 includes/tebravo.core.php:611
+msgid "wp-config.php backup at these directories:"
+msgstr ""
+
+#: includes/tebravo.core.php:523
+msgid "File editor updated successfully. Refresh page to view changes."
+msgstr ""
+
+#: includes/tebravo.core.php:565
+msgid "wp-config.php updated successfully. WP_DEBUG updated."
+msgstr ""
+
+#: includes/tebravo.core.php:607
+msgid "wp-config.php updated successfully. WP_AUTO_UPDATE_CORE updated."
+msgstr ""
+
+#: includes/tebravo.core.php:656
+msgid "wp-config.php permissions fixed successfully."
+msgstr ""
+
+#: includes/tebravo.core.php:658
+msgid "wp-config.php permissions fixed failed."
+msgstr ""
+
+#: includes/tebravo.core.php:696 includes/tebravo.core.php:732
+msgid "Settings updated successfully for themes automatic updates."
+msgstr ""
+
+#: includes/tebravo.core.php:902
+msgid "You can not resend another in short time, please try again later."
+msgstr ""
+
+#: includes/tebravo.core.php:933
+msgid "Sent! Please check your email."
+msgstr ""
+
+#: includes/tebravo.core.php:951
+msgid "What is the first name of the person you first kissed?"
+msgstr ""
+
+#: includes/tebravo.core.php:952
+msgid ""
+"What is the last name of the teacher who gave you your first failing grade?"
+msgstr ""
+
+#: includes/tebravo.core.php:953
+msgid "What was the name of your elementary / primary school?"
+msgstr ""
+
+#: includes/tebravo.core.php:954
+msgid "In what city or town does your nearest sibling live?"
+msgstr ""
+
+#: includes/tebravo.core.php:955
+msgid "What time of the day were you born?"
+msgstr ""
+
+#: includes/tebravo.core.php:956
+msgid "What is your pet's name?"
+msgstr ""
+
+#: includes/tebravo.core.php:957
+msgid "In what year was your father born?"
+msgstr ""
+
+#: includes/tebravo.core.php:958
+msgid "What is your favorite car?"
+msgstr ""
+
+#: includes/tebravo.core.php:1108
+msgid "Message Sent"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:349
+msgid "This wizard made for dangerous login names only!"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:358 includes/tebravo.dashboard.php:379
+msgid "Wrong User ID"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:370
+msgid "Username Changed Successfully"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:374
+msgid "Username Already Exists"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:391
+msgid "Old Login Name"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:395 includes/tebravo.dashboard.php:396
+msgid "New Login Name"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:470
+msgid "Write to support ..."
+msgstr ""
+
+#: includes/tebravo.dashboard.php:474
+msgid "Include Log Files"
+msgstr ""
+
+#: includes/tebravo.dashboard.php:477
+msgid "Do it"
+msgstr ""
+
+#: includes/tebravo.files.php:46 includes/tebravo.files.php:47
+#: includes/tebravo.files.php:48 includes/tebravo.files.php:87
+#, php-format
+msgid "%s is not readable or non exists."
+msgstr ""
+
+#: includes/tebravo.htaccess.php:285
+msgid "File is not writable!"
+msgstr ""
+
+#: includes/tebravo.html.php:42
+msgid "Dashboard files not found!"
+msgstr ""
+
+#: includes/tebravo.html.php:102
+msgid "BRAVO is not in the best practice mode! Please start configuration now."
+msgstr ""
+
+#: includes/tebravo.html.php:103
+msgid "Start Configuration"
+msgstr ""
+
+#: includes/tebravo.html.php:131
+msgid "Buy Premium"
+msgstr ""
+
+#: includes/tebravo.html.php:335
+msgid "Help"
+msgstr ""
+
+#: includes/tebravo.html.php:354
+msgid "Loading, Please wait ..."
+msgstr ""
+
+#: includes/tebravo.html.php:381
+msgid "Please insert BRAVO password."
+msgstr ""
+
+#: includes/tebravo.html.php:382
+msgid "Self Protection"
+msgstr ""
+
+#: includes/tebravo.html.php:390
+msgid "Password"
+msgstr ""
+
+#: includes/tebravo.init.php:184
+msgid "Site Closed!"
+msgstr ""
+
+#: includes/tebravo.init.php:200
+msgid "BRAVO Setup Wizard"
+msgstr ""
+
+#: includes/tebravo.init.php:440 includes/tebravo.init.php:449
+msgid "Bravo Security Dashboard"
+msgstr ""
+
+#: includes/tebravo.init.php:441
+msgid "BRAVO Security"
+msgstr ""
+
+#: includes/tebravo.init.php:457
+msgid "AntiVirus"
+msgstr ""
+
+#: includes/tebravo.init.php:458
+msgid "Antivirus"
+msgstr ""
+
+#: includes/tebravo.init.php:465
+msgid "Brute Force Attack Protection"
+msgstr ""
+
+#: includes/tebravo.init.php:466
+msgid "Anti Brute Force"
+msgstr ""
+
+#: includes/tebravo.init.php:473 includes/tebravo.init.php:474
+#: includes/tebravo.init.php:1165
+msgid "Firewall & Rules"
+msgstr ""
+
+#: includes/tebravo.init.php:489
+msgid "Wordpress Housekeeping"
+msgstr ""
+
+#: includes/tebravo.init.php:490
+msgid "Housekeeping"
+msgstr ""
+
+#: includes/tebravo.init.php:505
+msgid "WPConfig Tweak Settings"
+msgstr ""
+
+#: includes/tebravo.init.php:506
+msgid "WPConfig Tweak"
+msgstr ""
+
+#: includes/tebravo.init.php:521
+msgid "reCAPTCHA Settings"
+msgstr ""
+
+#: includes/tebravo.init.php:522
+msgid "reCAPTCHA"
+msgstr ""
+
+#: includes/tebravo.init.php:529
+msgid "Bravo Security Cronjobs"
+msgstr ""
+
+#: includes/tebravo.init.php:530
+msgid "Cronjobs (Schedules)"
+msgstr ""
+
+#: includes/tebravo.init.php:537 includes/tebravo.init.php:538
+#: includes/tebravo.init.php:1172
+msgid "Traffic Tracker"
+msgstr ""
+
+#: includes/tebravo.init.php:545 includes/tebravo.init.php:546
+msgid "Mail Watching"
+msgstr ""
+
+#: includes/tebravo.init.php:553 includes/tebravo.init.php:554
+msgid "Log Watching"
+msgstr ""
+
+#: includes/tebravo.init.php:560 includes/tebravo.init.php:561
+#: includes/tebravo.installer.php:440
+msgid "Error Pages"
+msgstr ""
+
+#: includes/tebravo.init.php:568
+msgid "Bravo Security Settings"
+msgstr ""
+
+#: includes/tebravo.init.php:650
+msgid "General Settings"
+msgstr ""
+
+#: includes/tebravo.init.php:869
+msgid "Admin Bar (on/off)"
+msgstr ""
+
+#: includes/tebravo.init.php:874
+msgid "Enable admin bar menu"
+msgstr ""
+
+#: includes/tebravo.init.php:881
+msgid "Recommended WP Tweak Options"
+msgstr ""
+
+#: includes/tebravo.init.php:886
+msgid "Hide Your Wordpress Version?"
+msgstr ""
+
+#: includes/tebravo.init.php:895
+msgid "Notify me to delete the unused themes"
+msgstr ""
+
+#: includes/tebravo.init.php:904
+msgid "Notify me to delete the unused plugins"
+msgstr ""
+
+#: includes/tebravo.init.php:911
+msgid "Front-end Close/Open"
+msgstr ""
+
+#: includes/tebravo.init.php:916
+msgid "Enable Development Mode"
+msgstr ""
+
+#: includes/tebravo.init.php:923
+msgid "Who can access front-end while website is closed?"
+msgstr ""
+
+#: includes/tebravo.init.php:931
+msgid "Author"
+msgstr ""
+
+#: includes/tebravo.init.php:935
+msgid "Editor"
+msgstr ""
+
+#: includes/tebravo.init.php:942
+msgid "Enable Maintenance Mode"
+msgstr ""
+
+#: includes/tebravo.init.php:948
+msgid "Message H1"
+msgstr ""
+
+#: includes/tebravo.init.php:948 includes/tebravo.init.php:951
+msgid "for both two modes"
+msgstr ""
+
+#: includes/tebravo.init.php:950
+msgid "Like e.g: Site Under Construction."
+msgstr ""
+
+#: includes/tebravo.init.php:951
+msgid "Message Body"
+msgstr ""
+
+#: includes/tebravo.init.php:953
+msgid "HTML NOT ALLOWED"
+msgstr ""
+
+#: includes/tebravo.init.php:959
+msgid "Hotlinking & iFrames"
+msgstr ""
+
+#: includes/tebravo.init.php:964
+msgid "Prevent images from showing outside your website"
+msgstr ""
+
+#: includes/tebravo.init.php:970
+msgid "White List Domains"
+msgstr ""
+
+#: includes/tebravo.init.php:970 includes/tebravo.init.php:1000
+msgid "Highly Recommended"
+msgstr ""
+
+#: includes/tebravo.init.php:972
+msgid "Like e.g: google.com, bing.com, add one domain per line"
+msgstr ""
+
+#: includes/tebravo.init.php:973
+msgid "Defualt image for prevented images (Hot Linking)"
+msgstr ""
+
+#: includes/tebravo.init.php:982
+msgid "Prevent your links to be embedded in a frame (<*iframe>)"
+msgstr ""
+
+#: includes/tebravo.init.php:989
+msgid "Defualt page for prevented iframe"
+msgstr ""
+
+#: includes/tebravo.init.php:996
+msgid "Unique Security Code"
+msgstr ""
+
+#: includes/tebravo.init.php:1007
+msgid "Bravo Resources Limit"
+msgstr ""
+
+#: includes/tebravo.init.php:1012
+msgid "Maximum Memory Limit"
+msgstr ""
+
+#: includes/tebravo.init.php:1025
+msgid "Maximum Timeout"
+msgstr ""
+
+#: includes/tebravo.init.php:1043
+msgid "Log"
+msgstr ""
+
+#: includes/tebravo.init.php:1053
+msgid "Enable/Disable Log"
+msgstr ""
+
+#: includes/tebravo.init.php:1060
+msgid "Backup .htaccess File"
+msgstr ""
+
+#: includes/tebravo.init.php:1063
+msgid "Backup nginx.conf File"
+msgstr ""
+
+#: includes/tebravo.init.php:1099
+msgid "Copy to that path"
+msgstr ""
+
+#: includes/tebravo.init.php:1143
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/tebravo.init.php:1316
+msgid "Sorry! Page not found."
+msgstr ""
+
+#: includes/tebravo.init.php:1317
+msgid ""
+"Actively Refused! this always happens when security level comes lower than "
+"normal!"
+msgstr ""
+
+#: includes/tebravo.init.php:1318
+msgid "Access Denied! No thing to do."
+msgstr ""
+
+#: includes/tebravo.init.php:1319
+msgid "File not found."
+msgstr ""
+
+#: includes/tebravo.init.php:1320
+msgid "Failed to rewrite .htaccess file."
+msgstr ""
+
+#: includes/tebravo.init.php:1321
+msgid "Failed to find /tmp directory."
+msgstr ""
+
+#: includes/tebravo.init.php:1322
+msgid "Can not complete your request."
+msgstr ""
+
+#: includes/tebravo.init.php:1325
+msgid "BRAVO can not backup your wordpress database, Please do it manually!"
+msgstr ""
+
+#: includes/tebravo.init.php:1326
+msgid ""
+"Failed to change the Wordpress database prefix because of missed important "
+"data!"
+msgstr ""
+
+#: includes/tebravo.init.php:1327
+msgid "Can not scan empty directory!"
+msgstr ""
+
+#: includes/tebravo.init.php:1328
+msgid "File does not exists or removed!"
+msgstr ""
+
+#: includes/tebravo.init.php:1329
+msgid "Scan Module Missed!"
+msgstr ""
+
+#: includes/tebravo.init.php:1330
+msgid "Start over file not found!"
+msgstr ""
+
+#: includes/tebravo.init.php:1331
+msgid "Dashboard template file does not exits"
+msgstr ""
+
+#: includes/tebravo.init.php:1369
+msgid "Settings Saved Successfully."
+msgstr ""
+
+#: includes/tebravo.init.php:1370
+msgid "New Schedule Event Added Successfully."
+msgstr ""
+
+#: includes/tebravo.init.php:1371
+msgid "Cronjob Updated Successfully."
+msgstr ""
+
+#: includes/tebravo.init.php:1372
+msgid "Wordpress Database Prefix Changed Successfully."
+msgstr ""
+
+#: includes/tebravo.init.php:1373
+msgid "Your action on file have been done."
+msgstr ""
+
+#: includes/tebravo.init.php:1374
+msgid "Antivirus process delete successfully."
+msgstr ""
+
+#: includes/tebravo.init.php:1375
+msgid "Database successfully optimized."
+msgstr ""
+
+#: includes/tebravo.init.php:1376
+msgid "Cleaning Done."
+msgstr ""
+
+#: includes/tebravo.init.php:1377
+msgid "Backing up Done."
+msgstr ""
+
+#. translators: 1: The number of years in an interval of time.
+#: includes/tebravo.init.php:1415
+#, php-format
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of months in an interval of time.
+#: includes/tebravo.init.php:1417
+#, php-format
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of weeks in an interval of time.
+#: includes/tebravo.init.php:1419
+#, php-format
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of days in an interval of time.
+#: includes/tebravo.init.php:1421
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of hours in an interval of time.
+#: includes/tebravo.init.php:1423
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of minutes in an interval of time.
+#: includes/tebravo.init.php:1425
+#, php-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: The number of seconds in an interval of time.
+#: includes/tebravo.init.php:1427
+#, php-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/tebravo.init.php:1431
+msgid "now"
+msgstr ""
+
+#: includes/tebravo.installer.php:224
+msgid "Requirements"
+msgstr ""
+
+#: includes/tebravo.installer.php:231
+msgid "Constants"
+msgstr ""
+
+#: includes/tebravo.installer.php:246
+msgid "Finish"
+msgstr ""
+
+#: includes/tebravo.installer.php:256
+msgid "Bravo Configuration"
+msgstr ""
+
+#: includes/tebravo.installer.php:257
+msgid "This wizard will help you to get the best configuration and settings."
+msgstr ""
+
+#: includes/tebravo.installer.php:258
+msgid ""
+"Step by step we are testing your hosting to get it compatible with Bravo."
+msgstr ""
+
+#: includes/tebravo.installer.php:280
+msgid "Bravo Requirements"
+msgstr ""
+
+#: includes/tebravo.installer.php:281
+msgid "Please be sure that your hosting support these requirements"
+msgstr ""
+
+#: includes/tebravo.installer.php:292
+msgid "PHP Function: chmod()"
+msgstr ""
+
+#: includes/tebravo.installer.php:299
+msgid "PHP Function: fopen()"
+msgstr ""
+
+#: includes/tebravo.installer.php:306
+msgid "PHP Function: fread()"
+msgstr ""
+
+#: includes/tebravo.installer.php:313
+msgid "PHP Function: file_get_contents()"
+msgstr ""
+
+#: includes/tebravo.installer.php:320
+msgid "PHP Function: fputs()"
+msgstr ""
+
+#: includes/tebravo.installer.php:327
+msgid "PHP Function: unlink()"
+msgstr ""
+
+#: includes/tebravo.installer.php:334
+msgid "PHP Function: filesize()"
+msgstr ""
+
+#: includes/tebravo.installer.php:341
+msgid "PHP.ini: allow_url_fopen"
+msgstr ""
+
+#: includes/tebravo.installer.php:348
+msgid "Not Exists"
+msgstr ""
+
+#: includes/tebravo.installer.php:349
+msgid "Exists"
+msgstr ""
+
+#: includes/tebravo.installer.php:350
+msgid "nginx.conf"
+msgstr ""
+
+#: includes/tebravo.installer.php:358
+msgid "NGINX Configuration"
+msgstr ""
+
+#: includes/tebravo.installer.php:359
+msgid ""
+"Add this line in the main nginx.conf or default.conf in your server using SSH"
+msgstr ""
+
+#: includes/tebravo.installer.php:368 includes/tebravo.installer.php:458
+#: includes/tebravo.installer.php:544
+msgid "If you got an error, Please fix it, then reload the page."
+msgstr ""
+
+#: includes/tebravo.installer.php:396
+msgid "Bravo Constants"
+msgstr ""
+
+#: includes/tebravo.installer.php:397
+msgid "We are setting Bravo on the best practice mode for you."
+msgstr ""
+
+#: includes/tebravo.installer.php:401
+msgid "Hide Wordpress Version"
+msgstr ""
+
+#: includes/tebravo.installer.php:409
+msgid "Security HASH"
+msgstr ""
+
+#: includes/tebravo.installer.php:422
+msgid "Brute Force Whitelist"
+msgstr ""
+
+#: includes/tebravo.installer.php:427
+msgid "Firewall Whitelist"
+msgstr ""
+
+#: includes/tebravo.installer.php:432
+msgid "Firewall Profile"
+msgstr ""
+
+#: includes/tebravo.installer.php:444
+msgid "Filechange First Scan"
+msgstr ""
+
+#: includes/tebravo.installer.php:485
+msgid "Permissions We Need"
+msgstr ""
+
+#: includes/tebravo.installer.php:486
+msgid "Some files and directories should be writable and it will be protected."
+msgstr ""
+
+#: includes/tebravo.installer.php:571
+msgid "Congratulations"
+msgstr ""
+
+#: includes/tebravo.installer.php:572
+msgid ""
+"If you have no errors, or you did repair all errors were happening while the "
+"wizard was running ..."
+msgstr ""
+
+#: includes/tebravo.installer.php:573
+msgid "We can say: your plugin is ready!"
+msgstr ""
+
+#: includes/tebravo.installer.php:574
+msgid "Go to Dashboard"
+msgstr ""
+
+#: includes/tebravo.selfprotect.php:42 includes/tebravo.selfprotect.php:48
+#: includes/tebravo.selfprotect.php:54
+msgid "You are using an old version of "
+msgstr ""
+
+#: includes/tebravo.selfprotect.php:43
+msgid "This may cause problems for you, Please update your browser now."
+msgstr ""
+
+#: includes/tebravo.selfprotect.php:49 includes/tebravo.selfprotect.php:55
+msgid "This may cause problems to you, Please update your browser now."
+msgstr ""
+
+#: includes/tebravo.selfprotect.php:99
+msgid "Access Denied"
+msgstr ""
+
+#: includes/tebravo.tour.php:21
+msgid "Do you want to take tour?! It may help you to explore Bravo features."
+msgstr ""

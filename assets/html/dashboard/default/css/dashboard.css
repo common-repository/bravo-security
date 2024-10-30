@@ -1,0 +1,40 @@
+div.tebravo_dashboard_default{margin:0 auto;}
+div.tebravo_dashboard_default div.tebravo_cell{
+	display:inline-block;
+	padding:4px;
+	vertical-align:top;
+	min-width:30%;
+	
+}
+div.tebravo_dashboard_default div.tebravo_cell div.tebravo_box{
+	padding:1px;
+	border: solid 1px #E9E9E9;
+	width:100%;
+}
+div.tebravo_box div.tebravo_title{
+	padding-top:4px;
+	padding-bottom:4px;
+	border-bottom: solid 1px #E9E9E9;
+	background:#5C7691;
+	color:#EEEEEE;
+	font-weight:bold;
+	font-size:14px;
+	width:97%;
+	
+}
+div.tebravo_box div.tebravo_content{
+	padding:6px;
+}
+div.tebravo_clear{
+	height:10px;
+}
+div.tebravo_box div.more{
+	padding:3px; color:#c9c9c9; cursor:pointer; font-size:9pt;
+	background:#67819C;
+	border:solid 1px #485D73;
+}
+div.tebravo_box div.more:hover{
+	background:#86A5C5;
+	border:solid 1px #38516C;
+	color:#4B3B05;
+}

@@ -1,0 +1,88 @@
+html,body{
+	margin:0 auto;
+	padding:15px;
+	background: url(img/bg3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.tebravo_main
+{
+	width:95%;
+	padding:0px;
+	width:100%;
+}
+
+.tebravo_main .title
+{
+	position:absolute;
+	top:18%;
+	font-size:900%;
+	font-family:arial;
+	font-weight:bold;
+	color:#125A6F;
+	padding:12px;	
+}
+
+.tebravo_main .desc
+{
+	position:absolute;
+	top:40%;
+	font-size:18px;
+	font-family:arial;
+	font-weight:normal;
+	color:#07303C;
+	padding:12px;	
+}
+
+.tebravo_main .search
+{
+	position:absolute;
+	top:50%;
+	font-family:arial;
+	font-weight:normal;
+	color:#07303C;
+	padding:12px;
+}
+
+.tebravo_main input[type='submit'],button
+{
+	background-color: #CECBCB;
+	border:solid 1px #BFACAC;
+    color: #5B5B5C;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-weight:bold;
+    cursor: pointer;
+}
+.tebravo_main input[type='submit']:hover,button:hover
+{
+	background-color: #ECECEC;
+	border:solid 1px #D2D4D9;
+    color: #5B5B5C;
+}
+
+.tebravo_main input[type='text'],search_field
+{
+	background-color: #fff;
+	border:solid 1px #c9c9c9;
+    color: #5B5B5C;
+    padding: 12px 28px;
+    display: inline-block;
+    font-size: 16px;
+}
+.tebravo_main .footer
+{
+	position:absolute;
+	bottom:18%;
+	font-size:18px;
+	font-family:arial;
+	font-weight:normal;
+	color:#CD6D0E;
+	padding:12px;	
+}

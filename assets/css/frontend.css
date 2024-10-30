@@ -1,0 +1,32 @@
+#tebravo_results{display:none;}
+.tebravo_darkenBG {
+	background: rgba(70, 72, 82, 0.6);
+	min-height:100%;
+	width:100%;
+	z-index:100;
+	position:absolute;
+	top:0px;
+	right:0px;
+	display:none;
+}
+.tebravo_darkenBG .loader{
+	z-index:101;
+	width:300px;
+	height:80px;
+	background:#F4F4F4;
+	position:fixed;
+	top:40%;
+	right:37%;
+	border:solid 1px #16A8F4;
+	box-shadow:2px 2px 2px #666666;
+	padding:4px;
+	color:#666666;
+}
+#tebravo_progressBar div {
+  box-sizing: border-box;
+}
+.tebravo_cancel{
+	font-size:0.8em;
+	color:blue;
+	cursor:pointer;
+}
